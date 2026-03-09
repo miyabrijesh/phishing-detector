@@ -6,7 +6,7 @@ This project demonstrates how to build a **security tool pipeline** including pa
 
 ---
 
-# 🚀 Live Demo
+# Live Demo
 
 Try the deployed application here:
 
@@ -14,7 +14,7 @@ https://feqv3pwouw78dyrdkigrqz.streamlit.app
 
 ---
 
-# 📊 Dashboard Preview
+# Dashboard Preview
 
 ![PhishGuard Dashboard](dashboard.png)
 
@@ -22,7 +22,7 @@ The dashboard allows users to paste any URL or email body and receive an **insta
 
 ---
 
-# 🔎 Safe URL Detection
+# Safe URL Detection
 
 The system correctly identifies legitimate URLs and returns a clean result.
 
@@ -30,7 +30,7 @@ The system correctly identifies legitimate URLs and returns a clean result.
 
 ---
 
-# 🎣 Phishing URL Detection
+# Phishing URL Detection
 
 Suspicious URLs are flagged with detailed indicators explaining why they are dangerous.
 
@@ -38,7 +38,7 @@ Suspicious URLs are flagged with detailed indicators explaining why they are dan
 
 ---
 
-# 📧 Phishing Email Detection
+# Phishing Email Detection
 
 Email bodies are scanned for urgent language, mismatched senders, embedded malicious URLs, and more.
 
@@ -46,7 +46,7 @@ Email bodies are scanned for urgent language, mismatched senders, embedded malic
 
 ---
 
-# 📊 Project Features
+# Project Features
 
 - Real-time URL and email body analysis
 - Multi-layered heuristic detection engine
@@ -59,7 +59,7 @@ Email bodies are scanned for urgent language, mismatched senders, embedded malic
 
 ---
 
-# 🧠 Detection Techniques Used
+# Detection Techniques Used
 
 ## URL Analysis
 
@@ -92,7 +92,7 @@ The system checks for:
 
 ---
 
-# 🏗 Project Architecture
+# Project Architecture
 
 ```
 phishing-detector/
@@ -143,7 +143,7 @@ The dashboard displays a **detailed explanation of every indicator detected**.
 
 ---
 
-# 📈 How It Works — Scoring Breakdown
+# How It Works — Scoring Breakdown
 
 ## URL Checks
 
@@ -176,7 +176,7 @@ The dashboard displays a **detailed explanation of every indicator detected**.
 
 ---
 
-# 💡 Example Test Inputs
+# Example Test Inputs
 
 ### Phishing URL
 
@@ -251,7 +251,7 @@ http://localhost:5000
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Python 3.10+
 - Streamlit
@@ -262,7 +262,7 @@ http://localhost:5000
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Machine learning classifier trained on phishing datasets
 - VirusTotal or Google Safe Browsing API integration
