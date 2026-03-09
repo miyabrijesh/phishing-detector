@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard – Phishing Detection Tool
+# PhishGuard – Phishing Detection Tool
 
 A **Python-based phishing detection system** that analyzes URLs and email content for suspicious indicators, deployed using **Streamlit Cloud**.
 
